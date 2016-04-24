@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.2626208
 color:
   saturation: 0
-  brandStrength: 0.63008
-  rhythmicContrast: 1
+  brandStrength: 1
+  lightness: 0
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  lightness: 0
+  rhythmicContrast: 1
 layout_spectrum: 1
 name: Adrián Blog
